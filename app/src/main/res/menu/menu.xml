@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="dashboard"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/transactions"
+        android:title="transactions"
+        android:icon="@drawable/ic_transactions"
+        />
+    <item
+        android:id="@+id/add"
+        android:title="add"
+        android:icon="@drawable/ic_baseline_add_24"
+        />
+    <item
+        android:id="@+id/budget"
+        android:title="budget"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        />
+
+</menu>

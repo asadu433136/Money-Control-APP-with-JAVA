@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39448576737",
+    "firebase_url": "https://money-control-c1462-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "money-control-c1462",
+    "storage_bucket": "money-control-c1462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39448576737:android:030bfc3b7c37259e78eda0",
+        "android_client_info": {
+          "package_name": "com.example.pluralcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39448576737-nfuvb48hhqa2ae3nje9e24fkvjbd1t7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8GICuZLuPgx2F0NM2a-2iEe5SvcUTuwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39448576737-nfuvb48hhqa2ae3nje9e24fkvjbd1t7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

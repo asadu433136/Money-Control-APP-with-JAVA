@@ -1,0 +1,67 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">pluralcode</string>
+    <string name="title_activity_splash_screen">splashScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="totalBalanceValue">$0</string>
+    <string name="totalExpenseValue">$0</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="amount">Amount : </string>
+    <string name="add">Add</string>
+    <string name="search">search</string>
+
+    <!-- Drop down Arrays-->
+    <string-array name="typeOfTransaction">
+        <item>Select Type of Transaction</item>
+        <item>Income</item>
+        <item>Expenses</item>
+    </string-array>
+
+    <string-array name="categoriesExpenses">
+        <item>Select Type of Expense</item>
+        <item>Entertainment</item>
+        <item>Food</item>
+        <item>Groceries</item>
+        <item>Household</item>
+        <item>Education</item>
+        <item>Health</item>
+        <item>Gift</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="categoriesIncome">
+        <item>Select Type of Income</item>
+        <item>Salary</item>
+        <item>Loan</item>
+        <item>Investment</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>Select Currency</item>
+        <item>Dollar</item>
+        <item>Euro</item>
+    </string-array>
+
+    <string-array name="repeat">
+        <item>None</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+
+    <string name="title_activity_test_page">testPage</string>
+    <string name="intro">
+        Get started with the Money Control app. <br/> Manage your income and expenses.  <br/> Let us help you save money!
+    </string>
+
+
+</resources>
